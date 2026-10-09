@@ -5,8 +5,5 @@ window.YOU_GPS_FIREBASE_CONFIG = {
   databaseURL: "https://you-gps-familia-default-rtdb.firebaseio.com",
   storageBucket: "you-gps-familia.firebasestorage.app",
   messagingSenderId: "847640512848",
-  appId: "1:847640512848:web:d5efadeb8ac274b020c455",
-  measurementId: "G-LCP5GV25KJ"
+  appId: "1:847640512848:web:d5efadeb8ac274b020c455"
 };
-
-
