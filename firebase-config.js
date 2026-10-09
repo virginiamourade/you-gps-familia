@@ -1,8 +1,11 @@
-// Preencha com os dados públicos de configuração do seu projeto Firebase.
-// Não coloque senhas, chaves privadas ou credenciais de administrador aqui.
 window.YOU_GPS_FIREBASE_CONFIG = {
-  apiKey: 'COLE_API_KEY',
-  authDomain: 'COLE_AUTH_DOMAIN',
-  projectId: 'COLE_PROJECT_ID',
-  appId: 'COLE_APP_ID'
+  apiKey: "AIzaSyAHYvnroUqcsSyORGuMsa3bl8x_JQwn_q8",
+  authDomain: "you-gps-familia.firebaseapp.com",
+  projectId: "you-gps-familia",
+  databaseURL: "https://you-gps-familia-default-rtdb.firebaseio.com",
+  storageBucket: "you-gps-familia.firebasestorage.app",
+  messagingSenderId: "847640512848",
+  appId: "1:847640512848:web:d5efadeb8ac274b020c455",
+  measurementId: "G-LCP5GV25KJ"
 };
+
